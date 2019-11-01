@@ -59,7 +59,7 @@
     "karma-jasmine": "~1.1.1",
     "karma-jasmine-html-reporter": "^0.2.2",
     "lite-server": "^2.2.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "merge-stream": "^1.0.1",
     "merge2": "^1.2.3",
     "node-sass": "^4.11.0",
